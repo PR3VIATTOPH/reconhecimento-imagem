@@ -7,7 +7,7 @@ Forneça um código com erro(s) intencional, pegue algum código seu ou use o di
 - Apresentar a correção
 
 ```python
-**#                                      CÓDIGO COM ERROS**                           
+**#                                      CÓDIGO COM ERROS**                          
 # ENTRADA DE DADOS
 cliente = input("Qual é seu nome? ")
 
